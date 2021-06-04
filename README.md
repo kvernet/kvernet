@@ -17,12 +17,12 @@
       <hr/><hr/>
       <p>Find me on:</p>
       <ul>
-          <li> <a href="https://github.com/kvernet">GitHub</a>
-          <li> <a href="https://www.researchgate.net/profile/Kinson-Vernet">ResearchGate</a>
-          <li> <a href="https://linkedin.com/in/kvernet">Linkedin</a
+          <li> <a href="https://github.com/kvernet" target="_blank">GitHub</a>
+          <li> <a href="https://www.researchgate.net/profile/Kinson-Vernet" target="_blank">ResearchGate</a>
+          <li> <a href="https://linkedin.com/in/kvernet" target="_blank">Linkedin</a
       </ul>
       <hr/><hr/><hr/>
-      Link to my <a href="https://www.theses.fr/s229171">thesis' subject</a>
+      Link to my <a href="https://www.theses.fr/s229171" target="_blank">thesis' subject</a>
     </td>
  </tr>
 </table>
