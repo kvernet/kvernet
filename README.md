@@ -19,6 +19,7 @@
       <ul>
           <li> <a href="https://github.com/kvernet">GitHub</a>
           <li> <a href="https://www.researchgate.net/profile/Kinson-Vernet">ResearchGate</a>
+          <li> <a href="https://linkedin.com/in/kvernet">Linkedin</a
       </ul>
       <hr/><hr/><hr/>
       Link to my <a href="https://www.theses.fr/s229171">thesis' subject</a>
